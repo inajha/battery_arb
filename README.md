@@ -30,3 +30,5 @@ Maximise:
 A full walk‑through of the maths (with a hand‑solved example) is available in the accompanying explanation (see comments in the code and the project documentation).
 
 ## Project structure
+
+![Battery arbitrage schedule](images/battery_schedule.gif)
