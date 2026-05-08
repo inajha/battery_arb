@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output plots
+*.png
