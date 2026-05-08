@@ -31,4 +31,4 @@ A full walk‑through of the maths (with a hand‑solved example) is available i
 
 ## Project structure
 
-![Battery arbitrage schedule](images/battery_schedule.gif)
+![Battery arbitrage schedule](images/battery_optimisation.gif)
